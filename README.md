@@ -1,10 +1,10 @@
 # ⚽ FIFA World Cup 2026 Dashboard
 
-![Dashboard](Data_Table.png)
-
 ## 📖 Project Overview
 
 This project was created to apply the Excel concepts I have learned so far by working with a real-world dataset.
+
+![Dashboard](Data_Table.png)
 
 Using the FIFA World Cup 2026 Final Tournament Standings, I built an interactive dashboard that transforms raw data into meaningful insights through charts, KPIs, and filters.
 
