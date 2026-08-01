@@ -85,6 +85,14 @@ As I continue learning, I look forward to building more advanced analytics proje
 
 Suggestions and feedback are always welcome. Thank you for taking the time to view my project!
 
+## 🌱 Learning Journey
+
+This project represents the Excel concepts I've learned so far and my effort to apply them to a complete, real-world dashboard.
+
+I'm excited to continue learning and building more data analytics projects in the future.
+
+⭐ Thank you for visiting this repository!
+
 ### 👩‍💻 Created by
 
 **Geethika**
