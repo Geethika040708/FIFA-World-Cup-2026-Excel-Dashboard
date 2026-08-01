@@ -1,5 +1,7 @@
 # ⚽ FIFA World Cup 2026 Dashboard
 
+![Dashboard](Data_Table.png)
+
 ## 📖 Project Overview
 
 This project was created to apply the Excel concepts I have learned so far by working with a real-world dataset.
