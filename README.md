@@ -53,6 +53,16 @@ Data Cleaning & Transformation
  Interactive Dashboard with Slicers
 ```
 
+## 💡 Skills Demonstrated
+
+- Data Cleaning using Power Query
+- Data Transformation
+- Pivot Table Analysis
+- Interactive Dashboard Design
+- KPI Creation
+- Data Visualization
+- Excel Reporting
+
 ## 📈 Dashboard Highlights
 
 - 🏆 Champion
