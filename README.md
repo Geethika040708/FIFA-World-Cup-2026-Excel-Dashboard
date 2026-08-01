@@ -25,6 +25,34 @@ Using the FIFA World Cup 2026 Final Tournament Standings, I built an interactive
 - Slicers (Interactive Filters)
 - Data Visualization
 
+## 🔄 Project Workflow
+
+```text
+Raw FIFA World Cup 2026 Dataset
+            │
+            ▼
+Data Cleaning & Transformation
+        (Power Query)
+            │
+            ▼
+      Excel Table (Ctrl + T)
+            │
+            ▼
+      Pivot Tables Creation
+            │
+            ▼
+      Pivot Charts Creation
+            │
+            ▼
+      KPI Calculations
+            │
+            ▼
+   Dashboard Design & Formatting
+            │
+            ▼
+ Interactive Dashboard with Slicers
+```
+
 ## 📈 Dashboard Highlights
 
 - 🏆 Champion
